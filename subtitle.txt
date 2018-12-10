@@ -1,0 +1,69 @@
+Hello!
+I want to tell your about TypeScript. 
+I will consider in TypeScript next – What's TypeScript, Inheritance, Type, Syntax and Variable Declarations, Interface, Generics and Classes.
+What's TypeScript?  
+TypeScript is developed by the company Microsoft. His actual Creator is programmer Anders Heilsberg. TypeScript immediately started to develop as OpenSource project.
+TypeScript  is not another programming language. It's just a superset of Javascript with optional static typing. It's written … It's written on top JS.
+TypeScript code compiled in JS code.
+Next.
+TypeScript has next type:
+Number, String, Boolean it’s Simple types;
+and Array, Tuple, Enum, Null, undefined, void, Never and Any.
+Please, don’t use type Any because this is bad practis. 
+Syntax and Variable Declaration:
+Variables are declared in the same way as JavaScript (ES6). 
+Use key words: let and const. 
+You can define multiple valid types in the variables… for the variables. 
+This is example.
+Variable X can have type number, string, boolean. Another type will cause an error.
+Next. Array.
+Arrays are declared in two methods:
+First method with name type and square brackets. Second is class name Array and name type in angle brackets.
+Tuple.
+Tuple is a list that is presented  in memory as an array. But we clearly describe the types that we have to include.
+This is Example tuple.
+Also we can to make type assertion… assertion: 
+We have two… two method.
+First method  is with help angle brackets. Second is with help keyword “as”… “as”.
+Next.
+We can to describe Interfaces, that serve as templates for objects.  In the first case…. This is example.
+In the first case we will get the… the correct result. In the second case we will get the error because we didin’t specify a value height.
+In such situations, you must use the optional fields via question mark.
+How on slide. Fields via question marks … mark.
+And now we don’t have the mistake.
+The Properties can be readonly. We need to use keyword readonly, but we need to initialize this property:
+This is Example. Fields width is readonly.
+Interfaces can be inherited from each other. And then the interface needs to contain the fields of the parent. 
+We need to use keyword “extends”. This is…
+Interface Person this is parent. Interface Employee extends Person.
+Next.
+Generics.
+Generics is a function … is a functions that is not attached to type.
+The generic is created using angle brackets.
+After name function specify the pseudo name of our type and use it footer… further by alias T.
+Generics can be: Array, Classes and another.
+Next theme Classes.
+ Classes in TypeScript are to describe in style ES6 EcmaScript6.  
+First We specify the field and then his type. In class constructor is the same.
+This is example.
+Classes are inherited by using the keyword ”extends”.
+In TypeScript, we can use common object-oriented patterns. One of the most fundamental patterns in class-based programming is being able to extend existing classes to create new ones using inheritance.
+Let’s take a look at an example:
+This is example. This is example.
+This example shows the most basic inheritance feature: classes inherit properties and methods from base classes.
+Base class this is Animal and class Snake extends Animal. And now class Snake have method move().
+We access the base class using the keyword “super”. How this. Keyword super.
+TypeScript has a access modifiers as Public by default, Private, Protected and Readonly.
+Public fields are full accessible to the user. They are available directly from the object reference.
+Private fields are hidden from the User. Access to them is only inside the class.
+This is public fields with object reference. Object – Animal, field – name.
+Private field don’t inheritance.
+Protected field works the same, but it is inheritance.
+This is example protected fields.
+Readonly . We can make properties readonly by using the readonly keywords. Readonly properties must be initialized at their declaration or in the constructor.
+We can also create static members of a class, those that are visible on the class itself rather than on the instances.
+And finally: How to Start?
+We can to start  Install via package Manager npm: npm install global typescript or not global.
+And at all. We can to use Typescript. 
+Compiling code with the command – tsc file_name.ts. 
+This is all. Thank you. Good Bye.
