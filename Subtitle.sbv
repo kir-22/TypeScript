@@ -1,0 +1,360 @@
+0:00:00.060,0:00:06.450
+hello I want to tell you about tape
+
+0:00:03.270,0:00:12.150
+script I will consider in typescript
+
+0:00:06.450,0:00:14.400
+next what's tape script tape inheritance
+
+0:00:12.150,0:00:22.170
+syntax and variable declaration
+
+0:00:14.400,0:00:25.590
+interface generics and classes one-step
+
+0:00:22.170,0:00:29.779
+script tip script is developed by the
+
+0:00:25.590,0:00:34.320
+company Microsoft his actual creator is
+
+0:00:29.779,0:00:37.590
+programmer unders Helzberg tape script
+
+0:00:34.320,0:00:41.250
+immediately started to develop as open
+
+0:00:37.590,0:00:44.550
+source project tip script is not another
+
+0:00:41.250,0:00:49.460
+programming language is just a superset
+
+0:00:44.550,0:00:49.460
+of JavaScript with optional static
+
+0:00:49.789,0:00:58.020
+taking its who written it's right and
+
+0:00:54.989,0:01:04.199
+one top JavaScript tape script code
+
+0:00:58.020,0:01:10.460
+compile it in JavaScript code next tip
+
+0:01:04.199,0:01:19.710
+script has next type numbers drink
+
+0:01:10.460,0:01:24.509
+boolean its simple types and array tuple
+
+0:01:19.710,0:01:27.390
+and nom know define it would never and
+
+0:01:24.509,0:01:33.479
+any please don't use type any because
+
+0:01:27.390,0:01:36.930
+this is bad practice syntax and variable
+
+0:01:33.479,0:01:40.320
+declaration variables are the quality in
+
+0:01:36.930,0:01:45.329
+the same way in JavaScript using
+
+0:01:40.320,0:01:48.720
+keywords lead and Const you can define
+
+0:01:45.329,0:01:52.759
+multiple valid types in the variables
+
+0:01:48.720,0:01:58.170
+for the variables this is example
+
+0:01:52.759,0:02:03.079
+variable X can have a type numbers in
+
+0:01:58.170,0:02:10.319
+boolean another type will case one error
+
+0:02:03.079,0:02:12.270
+next array arrays are declared in two
+
+0:02:10.319,0:02:20.040
+method
+
+0:02:12.270,0:02:21.680
+first method with name type and square
+
+0:02:20.040,0:02:26.760
+breakers
+
+0:02:21.680,0:02:34.650
+second is class name Arry and name type
+
+0:02:26.760,0:02:39.440
+in angel brackets - PO tuple is a list
+
+0:02:34.650,0:02:43.440
+that is presented in memory as an array
+
+0:02:39.440,0:02:49.220
+but we clearly described the types that
+
+0:02:43.440,0:02:53.900
+we have to include this example purple
+
+0:02:49.220,0:02:59.210
+also we can to make type assertion
+
+0:02:53.900,0:03:02.730
+assert so we have to we have to method
+
+0:02:59.210,0:03:10.130
+first method it with helpful enter
+
+0:03:02.730,0:03:10.130
+brackets second is with help keyword us
+
+0:03:11.330,0:03:25.140
+next we can to describe interfaces that
+
+0:03:19.500,0:03:29.940
+serve as templates for object in the
+
+0:03:25.140,0:03:36.390
+first case this is example in the first
+
+0:03:29.940,0:03:42.050
+case we will get the correct result in
+
+0:03:36.390,0:03:46.950
+the second case we will get error
+
+0:03:42.050,0:03:51.270
+because we didn't specify a well you
+
+0:03:46.950,0:03:56.540
+hide in the soul in such a situation we
+
+0:03:51.270,0:04:02.160
+must use the optional fields via
+
+0:03:56.540,0:04:12.300
+question mark how one slide fields we
+
+0:04:02.160,0:04:16.169
+are question marks mark and now we did
+
+0:04:12.300,0:04:19.489
+we don't have the mistake the properties
+
+0:04:16.169,0:04:23.190
+can be also read-only
+
+0:04:19.489,0:04:26.040
+we need to use keywords only but we need
+
+0:04:23.190,0:04:33.000
+to immaturely this property
+
+0:04:26.040,0:04:33.000
+this example fields which is read-only
+
+0:04:33.510,0:04:41.020
+interfaces can be inherited from each
+
+0:04:37.090,0:04:45.460
+order and then the inherit interface
+
+0:04:41.020,0:04:49.780
+needs to contain the fields of the
+
+0:04:45.460,0:04:54.120
+parent we need to use keyword extends
+
+0:04:49.780,0:04:57.600
+this is interface person
+
+0:04:54.120,0:05:06.790
+this is parent interface employer
+
+0:04:57.600,0:05:10.690
+extends person next dynamics generic is
+
+0:05:06.790,0:05:14.920
+a generic exact function functions that
+
+0:05:10.690,0:05:18.520
+is not attached it to tape the generic
+
+0:05:14.920,0:05:22.450
+is created using angel breaks after name
+
+0:05:18.520,0:05:29.600
+fun so specifies observe the name of our
+
+0:05:22.450,0:05:32.370
+type and use it for food by alia ste
+
+0:05:29.600,0:05:36.940
+[Music]
+
+0:05:32.370,0:05:47.980
+generics can be airing classes and
+
+0:05:36.940,0:05:54.100
+another next classes classes in Cape
+
+0:05:47.980,0:05:57.580
+script are to describe in style six Atma
+
+0:05:54.100,0:06:01.960
+scripts six first we spit Sofia the
+
+0:05:57.580,0:06:05.580
+field and then his type in class
+
+0:06:01.960,0:06:08.830
+constructor is the same this is example
+
+0:06:05.580,0:06:14.350
+classes are inherited by using the
+
+0:06:08.830,0:06:19.800
+keyword extends in tape script we can
+
+0:06:14.350,0:06:23.530
+use common object-oriented patterns one
+
+0:06:19.800,0:06:29.140
+of the one of the most fundamental
+
+0:06:23.530,0:06:35.229
+patterns patterns in was buzzard
+
+0:06:29.140,0:06:38.480
+programming is being able to extend
+
+0:06:35.229,0:06:45.610
+existing classes to
+
+0:06:38.480,0:06:52.480
+create new ones using inheritance let's
+
+0:06:45.610,0:06:52.480
+take a look at example this is example
+
+0:06:52.960,0:07:03.280
+this is example this example shows the
+
+0:06:57.020,0:07:06.170
+most basic inheritance feud future
+
+0:07:03.280,0:07:11.120
+classes inherit properties and method
+
+0:07:06.170,0:07:15.680
+from buyers base classes base class this
+
+0:07:11.120,0:07:25.360
+is animal and cosmetics tense animal and
+
+0:07:15.680,0:07:28.250
+now class snake have method move we
+
+0:07:25.360,0:07:35.030
+attached the base class using the
+
+0:07:28.250,0:07:35.960
+keyword super house this no idea what
+
+0:07:35.030,0:07:42.920
+super
+
+0:07:35.960,0:07:46.690
+tape script has access modifier public
+
+0:07:42.920,0:07:50.960
+pre-weighed protected and read-only
+
+0:07:46.690,0:07:54.620
+public fields are full at the Sybil to
+
+0:07:50.960,0:07:58.130
+the user they are available directly for
+
+0:07:54.620,0:08:01.100
+from the object reference provide
+
+0:07:58.130,0:08:06.340
+private fields are hidden from the user
+
+0:08:01.100,0:08:13.640
+access to them is only inside the class
+
+0:08:06.340,0:08:17.680
+this is public field with object
+
+0:08:13.640,0:08:21.040
+reference object animal field name
+
+0:08:17.680,0:08:24.730
+private field don't inheritance
+
+0:08:21.040,0:08:28.790
+protected field works the same how
+
+0:08:24.730,0:08:37.270
+private but it is inheritance
+
+0:08:28.790,0:08:40.940
+this is exam protected fields read-only
+
+0:08:37.270,0:08:43.970
+we can make properties read-only by
+
+0:08:40.940,0:08:47.320
+using the read-only keywords read only
+
+0:08:43.970,0:08:50.920
+properties so must being its illicit
+
+0:08:47.320,0:08:57.430
+at their declaration or in the
+
+0:08:50.920,0:09:00.339
+constructor we can also create static
+
+0:08:57.430,0:09:02.800
+members of a class those that are
+
+0:09:00.339,0:09:11.670
+visible on the class itself rather
+
+0:09:02.800,0:09:18.670
+rather than one instance instances and
+
+0:09:11.670,0:09:22.329
+finally how to start we can start
+
+0:09:18.670,0:09:26.470
+install we have package manager manager
+
+0:09:22.329,0:09:31.600
+npm npm install' gu about a script or
+
+0:09:26.470,0:09:35.620
+not global and at all we can use tape
+
+0:09:31.600,0:09:42.040
+script in compiling code with the
+
+0:09:35.620,0:09:46.230
+command TST and file name this is all
+
+0:09:42.040,0:09:46.230
+thank you good bye
+
